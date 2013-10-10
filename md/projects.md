@@ -1,10 +1,23 @@
 #Projects #
 
 
-- Advising a new Registered Student Organization  at Holy Cross: the [Manuscripts, Inscriptions and Documents club][mid], and [links to github repositories][edd] for some of the projects I'm collaborating on there
-- New approaches to scholarly editions <!-- projects/editing.html -->
-- The Homer Multitext project  <!-- ns-hmt.html -->
-- The Ptolemy Machine <!-- projects/ptolemymachine.html -->
+- My [github profile][github]
+- Collaborative editing projects: see [links here][edlist]
+
+
+[github]: http://neelsmith.github.io/
+
+[edlist]: http://neelsmith.github.io/hcmid-edd/
+
+<!--
+ Advising a new Registered Student Organization  at Holy Cross: the [Manuscripts, Inscriptions and Documents club][mid], and [links to github repositories][edd] for some of the projects I'm collaborating on there
+ -->
+ 
+  <!-- 
+ New approaches to scholarly editionsprojects/editing.html -->
+<!--- The Homer Multitext project   ns-hmt.html -->
+
+<!-- The Ptolemy Machine  projects/ptolemymachine.html -->
 
 [edd]: http://neelsmith.github.io/hcmid-edd/
 
