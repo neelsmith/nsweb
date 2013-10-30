@@ -4,3 +4,5 @@ events.md=Events
 blogs.md=Blogs
 bestclassicsdept.md=Best undergraduate classics program?
 writing-markdown.md=Links for plain-text writing with markdown
+writing-citedown.md=Extending markdown with URN references
+cd-syntax.md=A brief overview of citedown syntax

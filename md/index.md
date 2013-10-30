@@ -24,7 +24,7 @@ and by appointment
 Links for:
 
 -  [plain-text writing with markdown](writing-markdown.html)
--  [writing-citedown.html]:  extending markdown to work with CITE URNs
+-  [citedown](writing-citedown.html):  extending markdown to work with CITE URNs
 
 ##Guide to reading Greek ##
 
