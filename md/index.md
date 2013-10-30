@@ -19,6 +19,12 @@ and by appointment
 
 - Advising [Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/), Friday 2:00-5:00, Fenwick 406
 
+## Digital writing 
+
+Links for:
+
+-  [plain-text writing with markdown](writing-markdown.html)
+-  [writing-citedown.html]:  extending markdown to work with CITE URNs
 
 ##Guide to reading Greek ##
 

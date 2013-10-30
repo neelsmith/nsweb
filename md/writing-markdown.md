@@ -32,7 +32,6 @@ A few that I use and like:
 ## Utilities ##
 
 - marked:  [version 2][marked2] (includes support for [criticmarkup][cm]).  View with CSS stylesheets or export to various formats.  
-- [cd2md][cd2md].  Convert citedown to pure markdown.
 - `criticmarkup` [OS X services][osxserv] (from Brett Terpstra).  Not strictly markdown, but nice addition: accept/reject suggestions tagged with `criticmarkup`.
 
 
