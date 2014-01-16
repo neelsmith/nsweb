@@ -1,13 +1,23 @@
-## Spring Semester, 2014 ##
 
-On research leave.  Regular office hours to be determined in late January.
+## Class schedule, F'13 ##
+
+
+- [Latin 101, section 1][1]: MWF 9:00, Smith 210
+- [Latin 101, section 2][2]: MWF 11:00, Smith 201
+- [Classics 267, Archaeology and Time][3]: TTh 2:00, Fenwick 420
+- Tutorial, Archimedes: Tues 3:15, Fenwick 415
+- Tutorial, Athenian tribute: Tues. 11:00, Fenwick 415
+- Tutorial, Latin pedagogy: Mon. 12:00, Fenwick 415
+
+
+## Office hours, F'13 ##
+
+- Monday, 10:00-11:00, Fenwick 415
+- Thursday, 3:30-4:30, Fenwick 415
+
+and by appointment
 
 - Advising [Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/), Friday 2:00-5:00, Fenwick 406
-
-## Developing Citable Archives of Scholarly Material ##
-
-- [Overview of my github repositories](gits.html)
-
 
 ## Digital writing 
 
