@@ -10,7 +10,11 @@ The repositories linked below provide access to current versions and history of 
 
 
 -  [cite][1]:  a JVM library for working with CTS URNs, CTS TextInventories, and CITE Object URNs
-- [citeservlet][2]:  the CITE services suite implemented in a servlet, and using a SPARQL endpoint for source data
+- [citeservlet][2]:  the CITE services suite implemented in a servlet, and using a SPARQL endpoint for source data.  It is build on top of four implementations of the CITE suite, each using a SPARQL endpoint for source data:
+    - sparqlcts: an implementation of CTS
+    - sparqlcc:  an implementation of CITE Collection services
+    - sparqlimg:  an implementation of the CITE Image extension to Collections
+    - graph:  a CITE graph server
 - [citemgr][4]:  an automated build system (using gradle) for managing CTS, CITE Collection, CITE Image and CITE Index repositories, built on top of the following libraries:
     - [hocuspocus][3]: a system for managing a CTS archive
     - [prestochango][7]:  a system for managing a CITE Collection archive
