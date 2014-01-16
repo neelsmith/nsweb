@@ -1,5 +1,4 @@
 index.md=Neel Smith
-gits.md=Overview of some active github repositories
 projects.md=Projects
 events.md=Events
 blogs.md=Blogs

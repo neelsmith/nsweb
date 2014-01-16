@@ -6,7 +6,7 @@ On research leave.  Regular office hours to be determined in late January.
 
 ## Developing Citable Archives of Scholarly Material ##
 
-- [Overview of my github repositories](gits.html)
+- [Overview of my github repositories](code/gits.html)
 
 
 ## Digital writing 

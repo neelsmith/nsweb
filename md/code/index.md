@@ -1,8 +1,10 @@
 # Code #
 
-A lot of my code is currently available from my [bitbucket repositories][1].
+My currently active code projects are available on [github][3];  published projects are also available in fixed versions as [nexus artifacts here][nexus].
 
-I'm beginning to migrate all of it from mercurial to git, hosted on [github][3].
+- See an [overview of my github repositories](gits.html).
+
+[nexus]:  http://beta.hpcc.uh.edu/nexus/
 
 [1]: https://bitbucket.org/neelsmith
 
