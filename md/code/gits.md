@@ -20,7 +20,7 @@ The repositories linked below provide access to current versions and history of 
     - [prestochango][7]:  a system for managing a CITE Collection archive
     - [nysi][8] ("now you see it"): a system for managing a CITE Image archive
     - [abracadabra][9]:  a system for managing a CITE Index archive
- 
+ - [ctsvalidator][15]: an automated test suite for evaluating the compliance of a CTS instance with the CTS specification
 
 ### Utilities for Writing With URNs ###
 
@@ -44,6 +44,8 @@ Work in progress on `citedown`, that is, markdown extended to support scholarly 
 
 - [Archival repository][5]: archival data from the Homer Multitext project.
 
+
+[15]: https://github.com/neelsmith/ctsvalidator
 
 [14]: https://github.com/neelsmith/sparqlcc
 
