@@ -14,7 +14,7 @@ The repositories linked below provide access to current versions and history of 
     - sparqlcts: an implementation of CTS
     - [sparqlcc][14]:  an implementation of CITE Collection services
     - [sparqlimg][13]:  an implementation of the CITE Image extension to Collections
-    - graph:  a CITE graph server
+    - citegraph:  a CITE graph server
 - [citemgr][4]:  an automated build system (using gradle) for managing CTS, CITE Collection, CITE Image and CITE Index repositories, built on top of the following libraries:
     - [hocuspocus][3]: a system for managing a CTS archive
     - [prestochango][7]:  a system for managing a CITE Collection archive

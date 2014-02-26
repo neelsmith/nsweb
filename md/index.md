@@ -1,13 +1,21 @@
 ## Spring Semester, 2014 ##
 
-On research leave.  Regular office hours to be determined in late January.
+On research leave.
 
-- Advising [Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/), Friday 2:00-5:00, Fenwick 406
+- Advising [Manuscripts, Inscriptions and Documents Club](http://shot.holycross.edu/hcmid/) (MID), Friday 2:00-5:00, Fenwick 406.
 
-## Developing Citable Archives of Scholarly Material ##
+## Citable Archives of Scholarly Material on `github` ##
 
-- [Overview of my github repositories](code/gits.html)
+### The core technologies
+- the CITE architecture: guide to [github repositories](http://cite-architecture.github.io/)
 
+### Archives
+- the [HomerMultitext project's](http://homermultitext.github.io/) github repositories
+- [Holy Cross MID's](http://hcmid.github.io/) github repositories
+- repositories of the [Phoros project](http://phoros.github.io) (sources for the study of Athenian tribute)
+
+
+[gits]: code/gits.html
 
 ## Digital writing 
 
